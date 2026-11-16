@@ -1,2 +1,1 @@
-# SIR-simulation
-C++ SIR epidemic simulator for closed populations with discrete integer conservation (S + I + R = N), unit tests, and real-time S(t), I(t), R(t) curve visualization powered by SFML.
+A C++ SIR epidemic simulator developed as a first-year BSc Physics project. It models disease transmission in closed populations while enforcing strict discrete integer conservation ($S + I + R = N$), verified with doctest unit tests and rendered in real time using SFML.
